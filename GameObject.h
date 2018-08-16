@@ -3,7 +3,7 @@
 
 /*
 File Name : Gameobject.h
-Copyright © 2018
+Copyright ï¿½ 2018
 Original authors : Sanketh Bhat
 Written under the supervision of David I.Schwartz, Ph.D., and
 supported by a professional development seed grant from the B.Thomas
@@ -24,7 +24,7 @@ You should have received a copy of the GNU General Public License
 along with this program.If not, see <http://www.gnu.org/licenses/>.
 
 Description:
-This is the skeleton for a basic 2D engine in OpenGL.
+Basic game object class with kinematic properties
 */
 
 
